@@ -1,0 +1,283 @@
+[master (root-commit) ed2e076] Algorithm Lab Repo + new C progs
+ 281 files changed, 2468 insertions(+)
+ create mode 100644 26 January code.c
+ create mode 100644 26 January code.exe
+ create mode 100644 26 January code.o
+ create mode 100644 ASCII NUMBER Out.c
+ create mode 100644 ASCII NUMBER Out.exe
+ create mode 100644 ASCII NUMBER Out.o
+ create mode 100644 Algorithms Lab/Binary Search/Am I Negative.c
+ create mode 100644 Algorithms Lab/Binary Search/Am I Negative.exe
+ create mode 100644 Algorithms Lab/Binary Search/Am I Negative.o
+ create mode 100644 Algorithms Lab/Binary Search/Awesome Rectangle.c
+ create mode 100644 Algorithms Lab/Binary Search/Binary Search.c
+ create mode 100644 Algorithms Lab/Binary Search/Binary Search.o
+ create mode 100644 Algorithms Lab/Binary Search/Knapsack.c
+ create mode 100644 Algorithms Lab/Binary Search/Knapsack.exe
+ create mode 100644 Algorithms Lab/Binary Search/Knapsack.o
+ create mode 100644 Algorithms Lab/Binary Search/Multiple Test Case.c
+ create mode 100644 Algorithms Lab/Binary Search/Multiple Test Case.exe
+ create mode 100644 Algorithms Lab/Binary Search/Multiple Test Case.o
+ create mode 100644 Algorithms Lab/Binary Search/New folder/desktop.ini
+ create mode 100644 Algorithms Lab/Binary Search/Pyramid.c
+ create mode 100644 Algorithms Lab/Binary Search/Pyramid.exe
+ create mode 100644 Algorithms Lab/Binary Search/Pyramid.o
+ create mode 100644 Algorithms Lab/Binary Search/Simple Math.c
+ create mode 100644 Algorithms Lab/Binary Search/Wave form.c
+ create mode 100644 Algorithms Lab/Binary Search/Wave form.exe
+ create mode 100644 Algorithms Lab/Binary Search/Wave form.o
+ create mode 100644 Algorithms Lab/Binary Search/ZB.c
+ create mode 100644 Algorithms Lab/Binary Search/desktop.ini
+ create mode 100644 Algorithms Lab/Insertion/desktop.ini
+ create mode 100644 Algorithms Lab/Insertion/in1.txt
+ create mode 100644 Algorithms Lab/Insertion/in2.txt
+ create mode 100644 Algorithms Lab/Insertion/in3.txt
+ create mode 100644 Algorithms Lab/LInear search/Linear search.c
+ create mode 100644 Algorithms Lab/LInear search/Linear search.exe
+ create mode 100644 Algorithms Lab/LInear search/Linear search.o
+ create mode 100644 Algorithms Lab/LInear search/desktop.ini
+ create mode 100644 Algorithms Lab/Merge_Sort1.1.c
+ create mode 100644 Algorithms Lab/Merge_Sort1.1.exe
+ create mode 100644 Algorithms Lab/Merge_Sort1.1.o
+ create mode 100644 Algorithms Lab/desktop.ini
+ create mode 100644 Algorithms Lab/insertion sort 2.2.c
+ create mode 100644 Algorithms Lab/insertion sort 2.2.exe
+ create mode 100644 Algorithms Lab/insertion sort 2.2.o
+ create mode 100644 B Code.c
+ create mode 100644 B Code.exe
+ create mode 100644 B Code.o
+ create mode 100644 Devide By your choice in a series.c
+ create mode 100644 Devide By your choice in a series.exe
+ create mode 100644 Devide By your choice in a series.o
+ create mode 100644 For loop asterisk.c
+ create mode 100644 For loop asterisk.exe
+ create mode 100644 For loop asterisk.o
+ create mode 100644 Forloop.c
+ create mode 100644 Forloop.exe
+ create mode 100644 Forloop.o
+ create mode 100644 Hello World.c
+ create mode 100644 Hello World.exe
+ create mode 100644 Hello World.o
+ create mode 100644 Kilo Meter to Mile.c
+ create mode 100644 Kilo Meter to Mile.exe
+ create mode 100644 Kilo Meter to Mile.o
+ create mode 100644 Robin-Carp Algo.cpp
+ create mode 100644 Robin-Carp Algo.exe
+ create mode 100644 Robin-Carp Algo.o
+ create mode 100644 Sum and Prod.c
+ create mode 100644 Sum and Prod.exe
+ create mode 100644 Sum and Prod.o
+ create mode 100644 Support.c
+ create mode 100644 Support.exe
+ create mode 100644 Support.o
+ create mode 100644 TC 42 page.c
+ create mode 100644 TC 42 page.exe
+ create mode 100644 TC 42 page.o
+ create mode 100644 TY 25 1..c
+ create mode 100644 TY 25 1..exe
+ create mode 100644 TY 25 1..o
+ create mode 100644 TY 26 2..c
+ create mode 100644 TY 26 2..exe
+ create mode 100644 TY 26 2..o
+ create mode 100644 TY 27 2..c
+ create mode 100644 TY 27 2..exe
+ create mode 100644 TY 27 2..o
+ create mode 100644 TY 28 1.5 ext.c
+ create mode 100644 TY 28 1.5 ext.exe
+ create mode 100644 TY 28 1.5 ext.o
+ create mode 100644 TY 28 1.5.c
+ create mode 100644 TY 28 1.5.exe
+ create mode 100644 TY 28 1.5.o
+ create mode 100644 TY 30 1..c
+ create mode 100644 TY 30 1..exe
+ create mode 100644 TY 30 1..o
+ create mode 100644 TY 43 Page Feet to Meter.c
+ create mode 100644 TY 43 Page Feet to Meter.exe
+ create mode 100644 TY 43 Page Feet to Meter.o
+ create mode 100644 TY 50 page  For Loop.c
+ create mode 100644 TY 50 page  For Loop.exe
+ create mode 100644 TY 50 page  For Loop.o
+ create mode 100644 TY 51 2..c
+ create mode 100644 TY 51 2..exe
+ create mode 100644 TY 51 2..o
+ create mode 100644 TY 51 page.c
+ create mode 100644 TY 51 page.exe
+ create mode 100644 TY 51 page.o
+ create mode 100644 TY 52 1..c
+ create mode 100644 TY 52 1..exe
+ create mode 100644 TY 52 1..o
+ create mode 100644 TY 67 MSC 4.c
+ create mode 100644 TY 67 MSC 4.exe
+ create mode 100644 TY 67 MSC 4.o
+ create mode 100644 TY 67 MSC 5.c
+ create mode 100644 TY 67 MSC 5.exe
+ create mode 100644 TY 67 MSC 5.o
+ create mode 100644 TY ASCII Compare.c
+ create mode 100644 TY ASCII Compare.exe
+ create mode 100644 TY ASCII Compare.o
+ create mode 100644 TY Exer 2.c
+ create mode 100644 TY Exer 2.exe
+ create mode 100644 TY Exer 2.o
+ create mode 100644 TY Exer1.c
+ create mode 100644 TY Exer1.exe
+ create mode 100644 TY Exer1.o
+ create mode 100644 TY For loop Exer 3.c
+ create mode 100644 TY For loop Exer 3.exe
+ create mode 100644 TY For loop Exer 3.o
+ create mode 100644 TY MSC 67 Square foot count.c
+ create mode 100644 TY MSC 67 Square foot count.exe
+ create mode 100644 TY MSC 67 Square foot count.o
+ create mode 100644 TY Magic Number Guess.c
+ create mode 100644 TY Magic Number Guess.exe
+ create mode 100644 TY Magic Number Guess.o
+ create mode 100644 TY Prime Number Test.c
+ create mode 100644 TY Prime Number Test.exe
+ create mode 100644 TY Prime Number Test.o
+ create mode 100644 TY String I-O.c
+ create mode 100644 TY String I-O.exe
+ create mode 100644 TY String I-O.o
+ create mode 100644 TY Type convertion code.c
+ create mode 100644 TY Type convertion code.exe
+ create mode 100644 TY Type convertion code.o
+ create mode 100644 Test for loop.c
+ create mode 100644 Test for loop.exe
+ create mode 100644 Test for loop.o
+ create mode 100644 Time Code.c
+ create mode 100644 Time Code.exe
+ create mode 100644 Time Code.o
+ create mode 100644 URI 1018 Banknotes.c
+ create mode 100644 URI 1018 Banknotes.exe
+ create mode 100644 URI 1018 Banknotes.o
+ create mode 100644 URI 1019 Time Conversion.c
+ create mode 100644 URI 1019 Time Conversion.exe
+ create mode 100644 URI 1019 Time Conversion.o
+ create mode 100644 URI 1020 Age in Days.c
+ create mode 100644 URI 1020 Age in Days.exe
+ create mode 100644 URI 1020 Age in Days.o
+ create mode 100644 URI 1021 Banknotes and Coins.c
+ create mode 100644 URI 1035 Selection test.c
+ create mode 100644 URI 1035 Selection test.exe
+ create mode 100644 URI 1035 Selection test.o
+ create mode 100644 URI 1036 Bhaskara's Formula.c
+ create mode 100644 URI 1036 Bhaskara's Formula.exe
+ create mode 100644 URI 1036 Bhaskara's Formula.o
+ create mode 100644 URI 1037 Interval.c
+ create mode 100644 URI 1037 Interval.exe
+ create mode 100644 URI 1037 Interval.o
+ create mode 100644 URI 1038 Snack.c
+ create mode 100644 URI 1038 Snack.exe
+ create mode 100644 URI 1038 Snack.o
+ create mode 100644 URI 1040 Average 3.c
+ create mode 100644 URI 1040 Average 3.exe
+ create mode 100644 URI 1040 Average 3.o
+ create mode 100644 URI 1041 Coordinates of a Point.c
+ create mode 100644 URI 1041 Coordinates of a Point.exe
+ create mode 100644 URI 1041 Coordinates of a Point.o
+ create mode 100644 URI 1042 Simple Sort.c
+ create mode 100644 URI 1042 Simple Sort.exe
+ create mode 100644 URI 1042 Simple Sort.o
+ create mode 100644 URI 1043 Triangle.c
+ create mode 100644 URI 1043 Triangle.exe
+ create mode 100644 URI 1043 Triangle.o
+ create mode 100644 URI 1044 Multiples.c
+ create mode 100644 URI 1044 Multiples.exe
+ create mode 100644 URI 1044 Multiples.o
+ create mode 100644 URI 1046 Game Time.c
+ create mode 100644 URI 1046 Game Time.exe
+ create mode 100644 URI 1046 Game Time.o
+ create mode 100644 URI 1047.c
+ create mode 100644 URI 1047.exe
+ create mode 100644 URI 1047.o
+ create mode 100644 URI 1048 Salary Increase.c
+ create mode 100644 URI 1048 Salary Increase.exe
+ create mode 100644 URI 1048 Salary Increase.o
+ create mode 100644 URI 1059 Even Numbers.c
+ create mode 100644 URI 1059 Even Numbers.exe
+ create mode 100644 URI 1059 Even Numbers.o
+ create mode 100644 URI 1096 Sequence IJ 2.c
+ create mode 100644 URI 1096 Sequence IJ 2.exe
+ create mode 100644 URI 1096 Sequence IJ 2.o
+ create mode 100644 URI 1154 Ages.c
+ create mode 100644 URI 1154 Ages.exe
+ create mode 100644 URI 1154 Ages.h
+ create mode 100644 URI 1154 Ages.o
+ create mode 100644 URI 1221 First Prime Number.c
+ create mode 100644 URI 1221 First Prime Number.exe
+ create mode 100644 URI 1221 First Prime Number.o
+ create mode 100644 URI Online Judge  1050 DDD.c
+ create mode 100644 URI Online Judge  1050 DDD.exe
+ create mode 100644 URI Online Judge  1050 DDD.o
+ create mode 100644 URI Online Judge  2584 Pentagon.c
+ create mode 100644 URI Online Judge  2584 Pentagon.exe
+ create mode 100644 URI Online Judge  2584 Pentagon.o
+ create mode 100644 URI Online Judge 1042 Simple Sort.c
+ create mode 100644 URI Online Judge 1042 Simple Sort.exe
+ create mode 100644 URI Online Judge 1042 Simple Sort.o
+ create mode 100644 URI Online Judge 1045 Triangle Types.c
+ create mode 100644 URI Online Judge 1045 Triangle Types.exe
+ create mode 100644 URI Online Judge 1045 Triangle Types.o
+ create mode 100644 URI Online Judge 1052 Month.c
+ create mode 100644 URI Online Judge 1052 Month.exe
+ create mode 100644 URI Online Judge 1052 Month.o
+ create mode 100644 URI Online Judge 1059 Even Numbers.c
+ create mode 100644 URI Online Judge 1059 Even Numbers.exe
+ create mode 100644 URI Online Judge 1059 Even Numbers.o
+ create mode 100644 URI Online Judge 1064 Positives and Average.c
+ create mode 100644 URI Online Judge 1064 Positives and Average.exe
+ create mode 100644 URI Online Judge 1064 Positives and Average.o
+ create mode 100644 URI Online Judge 1078 Multiplication Table.c
+ create mode 100644 URI Online Judge 1078 Multiplication Table.exe
+ create mode 100644 URI Online Judge 1078 Multiplication Table.o
+ create mode 100644 URI Online Judge 1096 Sequence IJ 2.c
+ create mode 100644 URI Online Judge 1096 Sequence IJ 2.exe
+ create mode 100644 URI Online Judge 1096 Sequence IJ 2.o
+ create mode 100644 URI Online Judge 1114 Fixed Password.c
+ create mode 100644 URI Online Judge 1114 Fixed Password.exe
+ create mode 100644 URI Online Judge 1114 Fixed Password.o
+ create mode 100644 URI Online Judge 1132 Multiples of 13.c
+ create mode 100644 URI Online Judge 1132 Multiples of 13.exe
+ create mode 100644 URI Online Judge 1132 Multiples of 13.o
+ create mode 100644 URI Online Judge 1142 PUM.c
+ create mode 100644 URI Online Judge 1142 PUM.exe
+ create mode 100644 URI Online Judge 1142 PUM.o
+ create mode 100644 URI Online Judge 1143 Squared and Cubic.c
+ create mode 100644 URI Online Judge 1143 Squared and Cubic.exe
+ create mode 100644 URI Online Judge 1143 Squared and Cubic.o
+ create mode 100644 URI Online Judge 1154 Ages.c
+ create mode 100644 URI Online Judge 1154 Ages.exe
+ create mode 100644 URI Online Judge 1154 Ages.o
+ create mode 100644 URI Online Judge 2146 Password.c
+ create mode 100644 URI Online Judge 2146 Password.exe
+ create mode 100644 URI Online Judge 2146 Password.o
+ create mode 100644 URI Online Judge Animal 1049.c
+ create mode 100644 URI Online Judge Animal 1049.exe
+ create mode 100644 URI Online Judge Animal 1049.o
+ create mode 100644 URI Online Judge1134 Type of Fuel.c
+ create mode 100644 URI Online Judge1134 Type of Fuel.exe
+ create mode 100644 URI Online Judge1134 Type of Fuel.o
+ create mode 100644 UVa 3n+1.c
+ create mode 100644 UVa 3n+1.exe
+ create mode 100644 UVa 3n+1.o
+ create mode 100644 Word Count.c
+ create mode 100644 Word Count.exe
+ create mode 100644 Word Count.o
+ create mode 100644 amar code
+ create mode 100644 cp subeen 01.c
+ create mode 100644 cp subeen 01.exe
+ create mode 100644 cp subeen 01.o
+ create mode 100644 desktop.ini
+ create mode 100644 for loop 2.c
+ create mode 100644 for loop 2.exe
+ create mode 100644 for loop 2.o
+ create mode 100644 for loop.c
+ create mode 100644 for loop.exe
+ create mode 100644 for loop.o
+ create mode 100644 for loop2.c
+ create mode 100644 for loop2.exe
+ create mode 100644 for loop2.o
+ create mode 100644 myfunction.c
+ create mode 100644 myfunction.exe
+ create mode 100644 myfunction.o
+ create mode 100644 testing1.c
+ create mode 100644 testing1.exe
+ create mode 100644 testing1.o

@@ -1,0 +1,36 @@
+
+#include<stdio.h>
+int main()
+{
+      insertion();
+    return 0;
+}
+int insertion()
+{
+     int key,i,j,n,k;
+     printf("your array is : {11,8,7,2,13,5,10,4,6}");
+     int a[23]={11,8,7,2,13,5,10,4,6};
+
+
+    for(j=1;j<9;j++)
+    {
+        key=a[j];
+        i=j-1;
+        while(i>=0 && a[i]>key)
+        {
+            a[i+1]=a[i];
+            i=i-1;
+            a[i+1]=key;
+        }
+         ///a[i+1]=key;
+    }
+     printf("After sorting\n");
+    for(i=0;i<9;i++)
+    {
+      printf("%d  ",a[i]);
+    }
+
+    return 0;
+}
+
+

@@ -1,0 +1,2 @@
+10-10-2018 Binary Search Algorithm.
+11-10-2018 Linera Search     "    , Jump Seacrh Algorithm.
